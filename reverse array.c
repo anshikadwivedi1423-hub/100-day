@@ -14,8 +14,6 @@ int main()
     {
         scanf("%d", &arr[i]);
     }
-
-    // Reverse the array
     for (i = 0; i < n / 2; i++)
     {
         temp = arr[i];
